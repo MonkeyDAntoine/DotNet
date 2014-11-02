@@ -1,0 +1,7 @@
+Z:\Dev\DOT NET\workspace\WebApp\WebApp\bin\WebApp.dll
+Z:\Dev\DOT NET\workspace\WebApp\WebApp\bin\WebApp.pdb
+Z:\Dev\DOT NET\workspace\WebApp\WebApp\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dev\DOT NET\workspace\WebApp\WebApp\obj\Debug\WebApp.dll
+Z:\Dev\DOT NET\workspace\WebApp\WebApp\obj\Debug\WebApp.pdb
+Z:\Dev\DOT NET\workspace\WebApp\WebApp\bin\TagManagerLib.dll
+Z:\Dev\DOT NET\workspace\WebApp\WebApp\bin\TagManagerLib.pdb
